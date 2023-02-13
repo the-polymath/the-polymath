@@ -117,21 +117,17 @@
 
 
 ## Github Stats  
+<table><tr><td valign="top" width="33%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-polymath&hide_border=true&layout=compact"/>  
-
+</td><td valign="top" width="33%">
 <img src="https://github-readme-stats.vercel.app/api?username=the-polymath&show_icons=true&count_private=true&hide_border=true"  />  
-
-<br/>  
-
-  
-
-<br/>  
+</td></tr></table>  
 
   
 
 <br/>  
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=the-polymath&&style=flat-square"/>
 </div>  
   
