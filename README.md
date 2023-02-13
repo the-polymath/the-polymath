@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time Data Engineer 👨‍💻 working since 2021 🚀</div>  
+### <div align="center">I'm Raj Gandhi, a full-time Data Engineer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🌱 I’m currently learning [Project Management](https://in.coursera.org/professional-certificates/google-project-management)  
@@ -119,7 +119,7 @@
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-polymath&hide_border=true&layout=compact" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-polymath&show_icons=true&count_private=true&hide_border=true" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=the-polymath&show_icons=true&count_private=true&hide_border=true"  />  
 
 <br/>  
 
