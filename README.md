@@ -107,7 +107,7 @@
 <a href="https://linkedin.com/in/p0lymath" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/enterhere" target="_blank">
+<a href="https://stackoverflow.com/users/17951403/polymath" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -117,7 +117,7 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-polymath&hide_border=true&layout=compact" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-polymath&hide_border=true&layout=compact"/>  
 
 <img src="https://github-readme-stats.vercel.app/api?username=the-polymath&show_icons=true&count_private=true&hide_border=true"  />  
 
@@ -132,7 +132,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=the-polymath&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=the-polymath&&style=flat-square"/>
 </div>  
   
 
