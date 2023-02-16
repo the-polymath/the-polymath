@@ -15,7 +15,7 @@
 - 🔭 Currently working on Data Engineering - PySpark, Kafka, Snowflake, Data Factory  
   
 
-- ⚡Fun Fact: Ask me anything, please usually call me living encyclopedia  
+- ⚡Fun Fact: Ask me anything, people usually call me living encyclopedia  
   
 
 <br/>  
